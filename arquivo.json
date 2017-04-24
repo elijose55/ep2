@@ -1,0 +1,127 @@
+{
+ "jogador": {
+  "player": {
+   "nome": "Bulga",
+   "poder": 15,
+   "vida": 40,
+   "defesa": 15,
+   "experiencia": 0,
+   "classe": 1,
+   "experiencia para evoluir": 30,
+   "creditos": 0,
+   "tempo": 0
+  },
+  "insperdex": {
+  }
+ },
+ "pokemon": {
+  "1": {
+   "nome": "Cacareto",
+   "poder": 55,
+   "vida": 200,
+   "defesa": 15
+  },
+  "2": {
+   "nome": "Apriglu",
+   "poder": 20,
+   "vida": 110,
+   "defesa": 20
+  },
+  "3": {
+   "nome": "Myni",
+   "poder": 15,
+   "vida": 300,
+   "defesa": 15
+  },
+  "4": {
+   "nome": "Lelion",
+   "poder": 65,
+   "vida": 80,
+   "defesa": 10
+  },
+  "5": {
+   "nome": "Caudas",
+   "poder": 10,
+   "vida": 50,
+   "defesa": 5
+  },
+  "6": {
+   "nome": "Guidichu",
+   "poder": 15,
+   "vida": 300,
+   "defesa": 10
+  },
+  "7": {
+   "nome": "Timotius",
+   "poder": 5,
+   "vida": 300,
+   "defesa": 30
+  },
+  "8": {
+   "nome": "Dada",
+   "poder": 35,
+   "vida": 200,
+   "defesa": 10
+  },
+  "9": {
+   "nome": "Della",
+   "poder": 75,
+   "vida": 100,
+   "defesa": 10
+  },
+  "10": {
+   "nome": "Trico",
+   "poder": 20,
+   "vida": 180,
+   "defesa": 20
+  },
+  "11": {
+   "nome": "Maui",
+   "poder": 10,
+   "vida": 200,
+   "defesa": 17
+  },
+  "12": {
+   "nome": "Smit",
+   "poder": 25,
+   "vida": 100,
+   "defesa": 25
+  },
+  "13": {
+   "nome": "Rarcas",
+   "poder": 35,
+   "vida": 200,
+   "defesa": 5
+  },
+  "14": {
+   "nome": "HotRollo",
+   "poder": 35,
+   "vida": 150,
+   "defesa": 15
+  },
+  "15": {
+   "nome": "Irineu",
+   "poder": 25,
+   "vida": 250,
+   "defesa": 20
+  },
+  "16": {
+   "nome": "Thresh",
+   "poder": 26,
+   "vida": 230,
+   "defesa": 3
+  },
+  "17": {
+   "nome": "Ayre",
+   "poder": 5,
+   "vida": 50,
+   "defesa": 5
+  },
+  "18": {
+   "nome": "Creva",
+   "poder": 1,
+   "vida": 20,
+   "defesa": 1
+  }
+ }
+}
